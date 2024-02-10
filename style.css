@@ -87,8 +87,7 @@
     display: flex;
     background-color: #1f1818;
     color:rgb(255, 255, 255);
-    margin: 4px;
-    padding: 5px;
+    margin: 50px 0px 0px 0px;
   }
   .container-fluid .footer .col-sm-4 h5{
     text-transform: capitalize;
